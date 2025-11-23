@@ -2,17 +2,22 @@
   "name": "hello_keshav_cli",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bin/who-keshav.js",
   "scripts": {
-    "start":"nodemon index.js",
-    "dev":"node index.js",
+    "start": "nodemon bin/who-keshav.js",
+    "dev": "node bin/who-keshav.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "who-keshav": "./bin/who-keshav.js"
+  },
   "keywords": [],
-  "author": "",
+  "author": "keshav",
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "nodemon": "^3.1.11"
