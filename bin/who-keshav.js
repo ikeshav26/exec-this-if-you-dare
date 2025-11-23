@@ -67,7 +67,7 @@ W@@@@@@@@@@Q\`                                  _0@@@@@@@@@@*      ${chalk.blue(
   
   console.log(
     chalk.bold.cyan('\n  ⭐ Star this repo: ') +
-    chalk.cyan(link('github.com/ikeshav26/exec-this-if-you-dare', 'https://github.com/ikeshav26/exec-this-if-you-dare')) +
+    chalk.cyan(link('github.com/ikeshav26/who-keshav', 'https://github.com/ikeshav26/who-keshav')) +
     chalk.yellow(' 🚀\n')
   );
 }

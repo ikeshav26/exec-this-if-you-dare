@@ -1,6 +1,6 @@
 {
-  "name": "hello_keshav_cli",
-  "version": "1.0.1",
+  "name": "who-keshav",
+  "version": "1.0.0",
   "description": "",
   "main": "bin/who-keshav.js",
   "scripts": {
