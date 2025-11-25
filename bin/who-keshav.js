@@ -28,31 +28,31 @@ async function main() {
       chalk.white(`
 keshav@archlinux:~$ ${chalk.cyan('gitfetch')}
 
-                   .~vVeZNgQBBBQQg9Ze1v~.
-              \`^}%B@@@@@@@@@@@@@@@@@@@@@@8%}= \`
-           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-                 ${chalk.bold.cyan('keshav@archlinux')}
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.              ${chalk.gray('─────────────────────────────────')}
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l\`            ${chalk.yellow('OS:')}       ${chalk.white('Arch Linux x86_64')} ${chalk.cyan('🐧')}
-    \`o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o\`          ${chalk.yellow('Uptime:')}   ${chalk.magenta('/My_codes/Projects')} ${chalk.red('🚗💨')}
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.         ${chalk.yellow('Packages:')} ${chalk.white('742 (pacman), 69 (pnpm)')}
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?        ${chalk.yellow('Shell:')}    ${chalk.white('/bin/fish')} ${chalk.cyan('🐟')}
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"       ${chalk.yellow('Editors:')}  ${chalk.white('nvim, vscode')} ${chalk.green('⚡')}
-_g@@@@@@@@@@2-                                \`M@@@@@@@@@@0       ${chalk.yellow('Theme:')}    ${chalk.white('Catppuccin')} ${chalk.magenta('✨')}
-a@@@@@@@@@@2                                    v@@@@@@@@@@;
-#@@@@@@@@@@_                                     @@@@@@@@@@y      ${chalk.bold.green('⚙️  tech stack')}
-@@@@@@@@@@@.                                     @@@@@@@@@@%      ${chalk.gray('─────────────────────────────────')}
-#@@@@@@@@@@r                                    :@@@@@@@@@@s      ${chalk.cyan('▓▓▓▓▓▓▓▓▓▓')} ${chalk.white('JavaScript/Java/Python/C-lang')}
-W@@@@@@@@@@Q\`                                  _0@@@@@@@@@@*      ${chalk.blue('▓▓▓▓▓▓▓▓▓░')} ${chalk.white('React/Next.js')} ${chalk.cyan('⚛️')}
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#       ${chalk.green('▓▓▓▓▓▓▓▓░░')} ${chalk.white('Node.js/Express')} ${chalk.green('🟢')}
- ;@@@@@@@@@@@@6^.                          \`\\p@@@@@@@@@@@@~       ${chalk.red('▓▓▓▓▓▓▓░░░')} ${chalk.white('MongoDB/MySQL')} ${chalk.green('🍃')}
-  n@@@@@PlVd@@@@#6Vv~_\`              \`_!?zd#@@@@@@@@@@@@#n        ${chalk.magenta('▓▓▓▓▓▓░░░░')} ${chalk.white('Docker/Git/Git-Actions/AWS(ec2)')} ${chalk.blue('🐳')}
-   2#@@@#hr _Y#@@@@@@@#q\`          \`X#@@@@@@@@@@@@@@@@@#~
-    .d@@@@@D\` .n6#@@@#V\`             Q@@@@@@@@@@@@@@@@d.         ${chalk.bold.magenta('🔗 contact & links')}
-      x0@@@@0^   \`__\`-                M@@@@@@@@@@@@@@0=          ${chalk.gray('─────────────────────────────────')}
-        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=             ${chalk.blue('  GitHub:')}    ${chalk.cyan(link('github.com/ikeshav26', 'https://github.com/ikeshav26'))}
-          \`vR#@@@@@@@@?              M@@@@@@@@#Pv\`              ${chalk.green('  Portfolio:')} ${chalk.cyan(link('portfolio.ikeshav.tech', 'https://portfolio.ikeshav.tech'))}
-              "Lf8@@@@v              q@@@#Qa?:                  ${chalk.red('  LinkedIn:')}  ${chalk.cyan(link('in/ikeshav-gilhotra', 'https://www.linkedin.com/in/ikeshav-gilhotra/'))}
-                  -!v|\`              _?v!\`
+${chalk.cyan('                   .~vVeZNgQBBBQQg9Ze1v~.')}
+${chalk.cyan('              \`^}%B@@@@@@@@@@@@@@@@@@@@@@8%}= \`')}
+${chalk.cyan('           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-')}                 ${chalk.bold.cyan('keshav@archlinux')}
+${chalk.cyan('        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.')}              ${chalk.gray('─────────────────────────────────')}
+${chalk.cyan('      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l\`')}            ${chalk.yellow('OS:')}       ${chalk.white('Arch Linux x86_64')} ${chalk.cyan('🐧')}
+${chalk.cyan('    \`o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o\`')}          ${chalk.yellow('Uptime:')}   ${chalk.magenta('/My_codes/Projects')} ${chalk.red('🚗💨')}
+${chalk.cyan('   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.')}         ${chalk.yellow('Packages:')} ${chalk.white('742 (pacman), 69 (pnpm)')}
+${chalk.cyan('  ?@@@@@@@@@@q                                z@@@@@@@@@#?')}        ${chalk.yellow('Shell:')}    ${chalk.white('/bin/fish')} ${chalk.cyan('🐟')}
+${chalk.cyan(' :@@@@@@@@@@@Q                                R@@@@@@@@@@@"')}       ${chalk.yellow('Editors:')}  ${chalk.white('nvim, vscode')} ${chalk.green('⚡')}
+${chalk.cyan('_g@@@@@@@@@@2-                                \`M@@@@@@@@@@0')}       ${chalk.yellow('Theme:')}    ${chalk.white('Catppuccin')} ${chalk.magenta('✨')}
+${chalk.cyan('a@@@@@@@@@@2                                    v@@@@@@@@@@;')}
+${chalk.cyan('#@@@@@@@@@@_                                     @@@@@@@@@@y')}      ${chalk.bold.green('⚙️  tech stack')}
+${chalk.cyan('@@@@@@@@@@@.                                     @@@@@@@@@@%')}      ${chalk.gray('─────────────────────────────────')}
+${chalk.cyan('#@@@@@@@@@@r                                    :@@@@@@@@@@s')}      ${chalk.cyan('▓▓▓▓▓▓▓▓▓▓')} ${chalk.white('JavaScript/Java/Python/C-lang')}
+${chalk.cyan('W@@@@@@@@@@Q\`                                  _0@@@@@@@@@@*')}      ${chalk.blue('▓▓▓▓▓▓▓▓▓░')} ${chalk.white('React/Next.js')} ${chalk.cyan('⚛️')}
+${chalk.cyan('~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#')}       ${chalk.green('▓▓▓▓▓▓▓▓░░')} ${chalk.white('Node.js/Express')} ${chalk.green('🟢')}
+${chalk.cyan(' ;@@@@@@@@@@@@6^.                          \`\\p@@@@@@@@@@@@~')}       ${chalk.red('▓▓▓▓▓▓▓░░░')} ${chalk.white('MongoDB/MySQL')} ${chalk.green('🍃')}
+${chalk.cyan('  n@@@@@PlVd@@@@#6Vv~_\`              \`_!?zd#@@@@@@@@@@@@#n')}        ${chalk.magenta('▓▓▓▓▓▓░░░░')} ${chalk.white('Docker/Git/Git-Actions/AWS(ec2)')} ${chalk.blue('🐳')}
+${chalk.cyan('   2#@@@#hr _Y#@@@@@@@#q\`          \`X#@@@@@@@@@@@@@@@@@#~')}
+${chalk.cyan('    .d@@@@@D\` .n6#@@@#V\`             Q@@@@@@@@@@@@@@@@d.')}         ${chalk.bold.magenta('🔗 contact & links')}
+${chalk.cyan('      x0@@@@0^   \`__\`-                M@@@@@@@@@@@@@@0=')}          ${chalk.gray('─────────────────────────────────')}
+${chalk.cyan('        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=')}             ${chalk.blue('  GitHub:')}    ${chalk.cyan(link('github.com/ikeshav26', 'https://github.com/ikeshav26'))}
+${chalk.cyan('          \`vR#@@@@@@@@?              M@@@@@@@@#Pv\`')}              ${chalk.green('  Portfolio:')} ${chalk.cyan(link('portfolio.ikeshav.tech', 'https://portfolio.ikeshav.tech'))}
+${chalk.cyan('              "Lf8@@@@v              q@@@#Qa?:')}                  ${chalk.red('  LinkedIn:')}  ${chalk.cyan(link('in/ikeshav-gilhotra', 'https://www.linkedin.com/in/ikeshav-gilhotra/'))}
+${chalk.cyan('                  -!v|\`              _?v!\`')}
                                                                   ${chalk.dim.italic('💡 "I use arch btw !!" ✨')}
     `),
       {
