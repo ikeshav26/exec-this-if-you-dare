@@ -33,7 +33,7 @@ ${chalk.cyan('              \`^}%B@@@@@@@@@@@@@@@@@@@@@@8%}= \`')}
 ${chalk.cyan('           -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-')}                 ${chalk.bold.cyan('keshav@archlinux')}
 ${chalk.cyan('        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.')}              ${chalk.gray('─────────────────────────────────')}
 ${chalk.cyan('      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l\`')}            ${chalk.yellow('OS:')}       ${chalk.white('Arch Linux x86_64')} ${chalk.cyan('🐧')}
-${chalk.cyan('    \`o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o\`')}          ${chalk.yellow('Uptime:')}   ${chalk.magenta('/My_codes/Projects')} ${chalk.red('🚗💨')}
+${chalk.cyan('    \`o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o\`')}          ${chalk.yellow('Uptime:')}   ${chalk.magenta('18 years')} ${chalk.red('🚗💨')}
 ${chalk.cyan('   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.')}         ${chalk.yellow('Packages:')} ${chalk.white('742 (pacman), 69 (pnpm)')}
 ${chalk.cyan('  ?@@@@@@@@@@q                                z@@@@@@@@@#?')}        ${chalk.yellow('Shell:')}    ${chalk.white('/bin/fish')} ${chalk.cyan('🐟')}
 ${chalk.cyan(' :@@@@@@@@@@@Q                                R@@@@@@@@@@@"')}       ${chalk.yellow('Editors:')}  ${chalk.white('nvim, vscode')} ${chalk.green('⚡')}
@@ -44,7 +44,7 @@ ${chalk.cyan('@@@@@@@@@@@.                                     @@@@@@@@@@%')}   
 ${chalk.cyan('#@@@@@@@@@@r                                    :@@@@@@@@@@s')}      ${chalk.cyan('▓▓▓▓▓▓▓▓▓▓')} ${chalk.white('JavaScript/Java/Python/C-lang')}
 ${chalk.cyan('W@@@@@@@@@@Q\`                                  _0@@@@@@@@@@*')}      ${chalk.blue('▓▓▓▓▓▓▓▓▓░')} ${chalk.white('React/Next.js')} ${chalk.cyan('⚛️')}
 ${chalk.cyan('~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#')}       ${chalk.green('▓▓▓▓▓▓▓▓░░')} ${chalk.white('Node.js/Express')} ${chalk.green('🟢')}
-${chalk.cyan(' ;@@@@@@@@@@@@6^.                          \`\\p@@@@@@@@@@@@~')}       ${chalk.red('▓▓▓▓▓▓▓░░░')} ${chalk.white('MongoDB/MySQL')} ${chalk.green('🍃')}
+${chalk.cyan(' ;@@@@@@@@@@@@6^.                          \`\\p@@@@@@@@@@@@~')}       ${chalk.red('▓▓▓▓▓▓▓░░░')} ${chalk.white('MongoDB/MySQL/Redis')} ${chalk.green('🍃')}
 ${chalk.cyan('  n@@@@@PlVd@@@@#6Vv~_\`              \`_!?zd#@@@@@@@@@@@@#n')}        ${chalk.magenta('▓▓▓▓▓▓░░░░')} ${chalk.white('Docker/Git/Git-Actions/AWS(ec2)')} ${chalk.blue('🐳')}
 ${chalk.cyan('   2#@@@#hr _Y#@@@@@@@#q\`          \`X#@@@@@@@@@@@@@@@@@#~')}
 ${chalk.cyan('    .d@@@@@D\` .n6#@@@#V\`             Q@@@@@@@@@@@@@@@@d.')}         ${chalk.bold.magenta('🔗 contact & links')}
