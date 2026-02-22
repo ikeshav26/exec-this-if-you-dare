@@ -1,6 +1,6 @@
 {
   "name": "who-keshav",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "bin/who-keshav.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "who-keshav": "./bin/who-keshav.js"
+    "who-keshav": "bin/who-keshav.js"
   },
   "keywords": [],
   "author": "keshav",

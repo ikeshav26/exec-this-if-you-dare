@@ -49,8 +49,8 @@ ${chalk.cyan('  n@@@@@PlVd@@@@#6Vv~_\`              \`_!?zd#@@@@@@@@@@@@#n')}   
 ${chalk.cyan('   2#@@@#hr _Y#@@@@@@@#q\`          \`X#@@@@@@@@@@@@@@@@@#~')}
 ${chalk.cyan('    .d@@@@@D\` .n6#@@@#V\`             Q@@@@@@@@@@@@@@@@d.')}         ${chalk.bold.magenta('🔗 contact & links')}
 ${chalk.cyan('      x0@@@@0^   \`__\`-                M@@@@@@@@@@@@@@0=')}          ${chalk.gray('─────────────────────────────────')}
-${chalk.cyan('        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=')}             ${chalk.blue('  GitHub:')}    ${chalk.cyan(link('github.com/ikeshav26', 'https://github.com/ikeshav26'))}
-${chalk.cyan('          \`vR#@@@@@@@@?              M@@@@@@@@#Pv\`')}              ${chalk.green('  Portfolio:')} ${chalk.cyan(link('portfolio.ikeshav.tech', 'https://portfolio.ikeshav.tech'))}
+${chalk.cyan('        =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=')}            ${chalk.blue('  GitHub:')}${chalk.cyan(link('github.com/ikeshav26', 'https://github.com/ikeshav26'))}
+${chalk.cyan('          \`vR#@@@@@@@@?              M@@@@@@@@#Pv\`')}              ${chalk.green('  Portfolio:')} ${chalk.cyan(link('ikeshav.in', 'https://ikeshav.in'))}
 ${chalk.cyan('              "Lf8@@@@v              q@@@#Qa?:')}                  ${chalk.red('  LinkedIn:')}  ${chalk.cyan(link('in/ikeshav-gilhotra', 'https://www.linkedin.com/in/ikeshav-gilhotra/'))}
 ${chalk.cyan('                  -!v|\`              _?v!\`')}
                                                                   ${chalk.dim.italic('💡 "I use arch btw !!" ✨')}
